@@ -18,4 +18,7 @@ Base resolution:
 
 The original title was word whipper :D, just didnt go through the hassle of changing that :) 
 
-You're welcome to copy and steal the code just give a reference with credits to this repo :) 
+You're welcome to copy and steal the code just give a reference with credits to this repo :)  "free to use with attribution"
+
+Fonts:
+[daniel linssen @ itch.io](https://managore.itch.io/m6x11)
