@@ -3,7 +3,7 @@ Demake of monkeytype in GameMaker2.
 Feel free to clone and make a pull request if you want to add anything :)   
 
 
-<video src="documentation/wordwhipper_firstfootage.mp4" width="640" height="480" controls></video>
+![](documentation/monkeyhype_gm2_showcase.gif)
 
 
 Text is loaded, and shown on screen and split into different lines.
