@@ -15,3 +15,5 @@ Press enter to get next qoute.
 
 Base resolution:
 320x240
+
+The original title was word whipper :D, just didnt go through the hassle of changing that :) 
